@@ -2,7 +2,7 @@ This repack is intended for Germans. But you can also play internationally. But 
 
 Feel free to check out my Github so you know what I mean :)
 
-[B]German Guys here?[/B]
+German Guys here?
 
 
 Wichtig: Dieses Projekt ist mein "Baby" und wird fortlaufend weiterentwickelt. Die anderen Repacks von mir hier im Forum erhalten keinerlei Updates mehr, nur dieses.
@@ -68,7 +68,6 @@ Befinden sich im "Module-Ordner".
 
 
 Viele Quality of Life LUA-Skripte
-[url=https://imgbb.com/][img]https://i.ibb.co/QMmpXtp/lua.png[/img][/url]
 <Alle LUA-Skripte wurden von mir vom englischen ins deutsche übersetzt. 
 So, dass sogut wie nichts mehr auf englisch angezeigt wird im Spiel. Weitere Verbesserungen werden natürlich kommen.
 
@@ -106,7 +105,7 @@ acc create ACCOUNTNAME PASSWORT PASSWORT
 
 [B]
 Für Fragen und Hilfestellungen(Z.b. Charaktere sichern und übertragen etc):[/B]
-[B]Discordserver:[/B] [url=https://discord.gg/TXQtWrpR]Legenden [German Repack ][/url]
+Im Discordserver.
 
 
 
@@ -134,6 +133,5 @@ Neues Update [26.8.2024]
 - Mehr Gegenstände im Aktionshaus
 
 
-Für Fragen und sonstiges:
-Discordserver: [url=https://discord.gg/TXQtWrpR]Legenden [German Repack ][/url]
+
 

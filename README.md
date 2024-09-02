@@ -3,7 +3,7 @@ This repack is intended for Germans. But you can also play internationally. But 
 Feel free to check out my Github so you know what I mean :)
 
 German Guys here?
-https://www.mediafire.com/file/z7t9rv261y9h88t/German+Repack+Legenden+ver.[2.0].rar/file
+[https://www.mediafire.com/file/z7t9rv261y9h88t/German+Repack+Legenden+ver.[2.0].rar/file](https://www.mediafire.com/file/m3ywttavvs5niem/German_Repack_Legenden_ver.%255B2.1%255D.rar/file)
 
 Wichtig: Dieses Projekt ist mein "Baby" und wird fortlaufend weiterentwickelt. Die anderen Repacks von mir hier im Forum erhalten keinerlei Updates mehr, nur dieses.
 

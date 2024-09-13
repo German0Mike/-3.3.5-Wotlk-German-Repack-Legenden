@@ -3,9 +3,44 @@ This repack is intended for Germans. But you can also play internationally. But 
 Feel free to check out my Github so you know what I mean :)
 
 German Guys here?
-[https://www.mediafire.com/file/z7t9rv261y9h88t/German+Repack+Legenden+ver.[2.0].rar/file](https://www.mediafire.com/file/m3ywttavvs5niem/German_Repack_Legenden_ver.%255B2.1%255D.rar/file)
+
 
 Wichtig: Dieses Projekt ist mein "Baby" und wird fortlaufend weiterentwickelt. Die anderen Repacks von mir hier im Forum erhalten keinerlei Updates mehr, nur dieses.
+
+UPDATE [13.9.2024]
+<Version 3.0>
+- Azerothcore geupdatet [AzerothCore rev. 409d2f138e37 2024-09-08 07:23:42 +0700]
+- Wieder maximale Anzahl an Bots von 10.000
+- Plundergegenstände werden automatisch beim looten verkauft (Mehr Platz in Taschen)
+- Übersetzte Eventnamen
+- Korrekturen von alten Übersetzungen
+- Teleportmeister (Korrekturen bei Stufenreichweite)
+- Bug entfernt welchen beim telepotieren durch den Boden fallen lässt
+- Neue tolle LUA-Skripte auf deutsch
+
+[Neue Module:]
+--> Hardcoremodus
+--> Accountmounts
+--> AoE-Loot 
+--> Gruppenlootquest(Jeder bekommt ein Questitem, wenn man zusammen questet)
+--> PvP-Status bei BG-Ende
+--> Transmog wieder dabei
+--> Ah-Bot der bessere, wieder dabei
+--> Schlachtfeldbelohnungen
+
+Ich habe auch einen Liveserver zum testen oder zum spielen. Schaut gerne vorbei.
+Ich bin auch mit Support für dich da.
+Webseite: http://www.night.giize.com/    (WoW-Server Legenden 3.3.5)
+Discord: https://discord.gg/zmYUKrA33U
+Github: https://github.com/German0Mike
+
+<Download German Repack 3.0>
+https://www.mediafire.com/file/5b2idxf87o76g9q/German%20Repack%20Legenden%203.0.rar
+
+
+
+
+
 
 Na du. 
 Bist du es auch satt, WoW mit gemischten Sprachen zu spielen?
